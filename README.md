@@ -61,3 +61,7 @@ The model achieves a certain level of accuracy in predicting credit status based
 The model can be used to predict the credit status of new customers. Provide the required information in the 'new_customer_data' section, run the code, and check the predicted credit status.
 
 Feel free to customize the code or experiment with different machine learning models for potentially improved results.
+![testcustomer](https://github.com/sncrsenyurt/Customer-Credit-Risk-Assessment/assets/35157651/2f9d56ad-e1dd-40b3-914f-e70310b1790c)
+
+
+
